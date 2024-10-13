@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="center">Desafio .NET - balta.io</p>
+  <p align="center">Exemplo de Projeto JavaFx</p>
   <a href="#introdução"><img src="./img/java.png" alt="Java"></a>
 </h1>
 
